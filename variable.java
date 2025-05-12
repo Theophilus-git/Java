@@ -1,6 +1,3 @@
-
-import java.awt.SystemTray;
-
 public class variable{
     public static void main(String[] args){
         // Interger (INT)

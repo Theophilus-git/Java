@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class exercise_reactangleArea {
+public class exercise_rectangleArea{
     public static void main(String[] args) {
         // Calculate the area of a rectangle
         double width = 0;
