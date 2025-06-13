@@ -10,9 +10,9 @@ public class randomNumbers {
         int number2;
         int number3;
 
-        number1 = random.nextInt(1,100);
-        number2 = random.nextInt(1,100);
-        number3 = random.nextInt(1,100);
+        number1 = random.nextInt(1,101);
+        number2 = random.nextInt(1,101);
+        number3 = random.nextInt(1,101);
 
         System.out.println(number1);
         System.out.println(number2);

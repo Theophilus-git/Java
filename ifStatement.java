@@ -24,7 +24,7 @@ public class ifStatement {
             System.out.println("You did not enter your name😒🥵");
         }
         else{
-            System.out.println("Hello "+name+"!😊");
+            System.out.println("Hello "+name+"!😊") ;
         }
 
 
@@ -32,13 +32,13 @@ public class ifStatement {
 
         // Group Two
         if(age>=18){
-            System.out.print("You are matured");
+            System.out.println("You are matured");
         }
         else if (age < 0 || age == 0) {
             System.out.println("You have not being born yet");
         }
         else{
-            System.out.println("You are a child");
+            System.out.println("\n You are a child");
         }
 
         // Group Three
